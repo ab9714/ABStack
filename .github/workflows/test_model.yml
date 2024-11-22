@@ -28,3 +28,11 @@ jobs:
     
     - name: Run tests
       run: pytest test_model.py -v
+    
+      - name: Run test_additional;
+      run: |
+        pytest test_additional.py  
+
+    - name: Run Augmentation Script
+      run: |
+        python augmentation.py 
