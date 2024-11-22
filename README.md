@@ -1,6 +1,6 @@
 # MNIST Classification with PyTorch
 
-[![Build Status](https://github.com/yourusername/your-repo-name/workflows/Test%20MNIST%20Model/badge.svg)](https://github.com/yourusername/your-repo-name/actions)
+[![Build Status](https://github.com/ab9714/ABStack/workflows/Test%20MNIST%20Model/badge.svg)](https://github.com/ab9714/ABStack/actions)
 
 This project implements a lightweight MNIST classifier using PyTorch, achieving >95% accuracy in a single epoch with less than 25,000 parameters.
 
